@@ -15,3 +15,11 @@ function bestFruit() {
 }
 
 bestFruit();
+
+function countries(){
+    country = 'colombia'; // Global
+    console.log(country);
+}
+
+countries();
+console.log(country);
